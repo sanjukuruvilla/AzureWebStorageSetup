@@ -11,8 +11,9 @@ This repository contains step-by-step instructions for setting up Azure Storage 
 1. [Prerequisites](#prerequisites)
 2. [Setup Instructions](#setup-instructions)
 3. [Website Preview](#Website-Preview)
-4. [Additional Documentation](#additional-documentation)
-5. [Contributing](#contributing)
+4. [Usage](#usage)
+5. [Additional Documentation](#additional-documentation)
+6. [Contributing](#contributing)
 
 ## Prerequisites
 
@@ -37,7 +38,10 @@ Before you begin, ensure you have the following:
    - Enable the "Static website" option under the "Settings" tab and specify the index and error documents.
    - Click "Review + create" and then "Create" to create the storage account.
 
-...
+
+## Usage
+
+Follow the provided instructions to host your static webpage on Azure using storage service. Share the generated URL with others to access your webpage.
 
 ## Website Preview
 
