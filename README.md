@@ -41,7 +41,7 @@ Before you begin, ensure you have the following:
 
 ## Website Preview
 
-![Website Preview](Output.png)
+![Website Preview](res.png)
 
 ## Additional Documentation
 
