@@ -11,7 +11,8 @@ This repository contains step-by-step instructions for setting up Azure Storage 
 1. [Prerequisites](#prerequisites)
 2. [Setup Instructions](#setup-instructions)
 3. [Usage](#usage)
-4. [Contributing](#contributing)
+4. [Additional Documentation](#additional-documentation)
+5. [Contributing](#contributing)
 
 ## Prerequisites
 
@@ -36,37 +37,11 @@ Before you begin, ensure you have the following:
    - Enable the "Static website" option under the "Settings" tab and specify the index and error documents.
    - Click "Review + create" and then "Create" to create the storage account.
 
-4. **Wait for Deployment**:
-   - Wait for the deployment to finish.
+...
 
-5. **Refresh and Go to Resource**:
-   - Click "Refresh".
-   - Click "Go to resource".
+## Additional Documentation
 
-6. **Enable Static Website**:
-   - Click "Static website".
-   - Click "Enabled".
-
-7. **Configure Website Settings**:
-   - Once the storage account is created, navigate to it in the Azure portal.
-   - Go to the "Static website" section under the "Settings" tab.
-   - Note down the primary endpoint URL provided.
-   - Upload your website files (including the index.html file) to the $web container within your storage account using Azure Storage Explorer or Azure CLI.
-
-8. **Set Index Document**:
-   - Click "Containers".
-   - Click "$web".
-   - Click "Upload" and upload your index.html file.
-   - Click the "Index document name" field and type "index.html".
-   - Click "Save".
-
-9. **Access Your Website**:
-   - Copy the Primary endpoint URL.
-   - Switch to a new browser tab and paste the URL to access your website.
-
-## Usage
-
-Follow the provided instructions to configure Azure Storage for hosting your static website. Feel free to customize the website content and settings as needed.
+For more detailed instructions and additional resources, please refer to the [documentation folder](documentation/) in this repository. The documentation includes PDF files with detailed guides, best practices, and exercises for practicing.
 
 ## Contributing
 
