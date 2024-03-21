@@ -41,7 +41,7 @@ Before you begin, ensure you have the following:
 
 ## Additional Documentation
 
-For more detailed instructions and additional resources, please refer to the [documentation folder](documentation/) in this repository. The documentation includes PDF files with detailed guides, best practices, and exercises for practicing.
+For more detailed instructions and additional resources, please refer to the [documentation folder](Documentation/) in this repository. The documentation includes PDF files with detailed guides, best practices, and exercises for practicing.
 
 ## Contributing
 
