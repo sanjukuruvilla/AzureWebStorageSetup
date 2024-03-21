@@ -10,7 +10,7 @@ This repository contains step-by-step instructions for setting up Azure Storage 
 
 1. [Prerequisites](#prerequisites)
 2. [Setup Instructions](#setup-instructions)
-3. [Usage](#usage)
+3. [Website Preview](#Website-Preview)
 4. [Additional Documentation](#additional-documentation)
 5. [Contributing](#contributing)
 
