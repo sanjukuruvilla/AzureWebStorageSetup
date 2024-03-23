@@ -35,7 +35,7 @@ Before you begin, ensure you have the following:
    - Click "Add" to create a new storage account.
    - Fill in the required details such as account name, resource group, location, etc.
    - Choose the "StorageV2" account kind and "General Purpose V2" performance.
-   - Enable the "Static website" option under the "Settings" tab and specify the index and error documents.
+   - Enable the "Static website" option under the "Settings" tab and specify the index and error documents [optional].
    - Click "Review + create" and then "Create" to create the storage account.
 
 
